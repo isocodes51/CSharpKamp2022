@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpKamp2022", "CSharpKamp2022\CSharpKamp2022.csproj", "{B7CF1174-A286-4715-9F41-789202EE5E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{5FD8926F-BB56-4D8B-9DDC-C0847C93D404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3", "Oop3\Oop3.csproj", "{E4A994AB-A032-4D8A-9402-9477E177808B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CF1174-A286-4715-9F41-789202EE5E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CF1174-A286-4715-9F41-789202EE5E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CF1174-A286-4715-9F41-789202EE5E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CF1174-A286-4715-9F41-789202EE5E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD8926F-BB56-4D8B-9DDC-C0847C93D404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD8926F-BB56-4D8B-9DDC-C0847C93D404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD8926F-BB56-4D8B-9DDC-C0847C93D404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD8926F-BB56-4D8B-9DDC-C0847C93D404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A994AB-A032-4D8A-9402-9477E177808B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A994AB-A032-4D8A-9402-9477E177808B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A994AB-A032-4D8A-9402-9477E177808B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A994AB-A032-4D8A-9402-9477E177808B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88411F6-7460-408D-95BA-2173AAB143BE}
+	EndGlobalSection
+EndGlobal
