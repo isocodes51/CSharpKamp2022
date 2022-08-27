@@ -5,11 +5,14 @@ using System.Text;
 namespace Oop3
 {
     class BasvuruManager
+
     {
-        public void BasvuruYap(IKrediManager krediManager)
+        //Method Injection
+        public void BasvuruYap(IKrediManager krediManager, ILoggerService loggerService)
         {
             
             krediManager.Hesapla();
+            loggerService.Log();
         }
         public void KrediOnBilgilendirmesiYap(List<IKrediManager> krediler)
         {

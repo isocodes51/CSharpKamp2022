@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpKamp2022", "CSharpKamp2022\CSharpKamp2022.csproj", "{B7CF1174-A286-4715-9F41-789202EE5E02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpKamp2022", "CSharpKamp2022\CSharpKamp2022.csproj", "{B7CF1174-A286-4715-9F41-789202EE5E02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{5FD8926F-BB56-4D8B-9DDC-C0847C93D404}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{5FD8926F-BB56-4D8B-9DDC-C0847C93D404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3", "Oop3\Oop3.csproj", "{E4A994AB-A032-4D8A-9402-9477E177808B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop3", "Oop3\Oop3.csproj", "{E4A994AB-A032-4D8A-9402-9477E177808B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{02DFBB0E-AAD5-4E97-B483-D68E2E3E0D8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E4A994AB-A032-4D8A-9402-9477E177808B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4A994AB-A032-4D8A-9402-9477E177808B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4A994AB-A032-4D8A-9402-9477E177808B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DFBB0E-AAD5-4E97-B483-D68E2E3E0D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DFBB0E-AAD5-4E97-B483-D68E2E3E0D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DFBB0E-AAD5-4E97-B483-D68E2E3E0D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DFBB0E-AAD5-4E97-B483-D68E2E3E0D8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
