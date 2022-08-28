@@ -21,7 +21,7 @@ namespace InterfaceAbstractDemo.Adapters
             return client.TCKimlikNoDogrulaAsync(customer.NationalityId,
                                                  customer.FirstName,
                                                  customer.LastName,
-                                                 customer.DateOfBirth);
+                                                 customer.DateOfBirth).Result.Body.TCKimlikNoDogrulaResult;
            
         }
     }

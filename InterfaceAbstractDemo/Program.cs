@@ -10,8 +10,8 @@ namespace InterfaceAbstractDemo
         static void Main(string[] args)
         {
             // BaseCustomerManager customerManager = new NeroCustomerManager() ;
-            BaseCustomerManager customerManager = new StarBucksCustomerManager(new MernisServiceAdapter()) ;
-            customerManager.Save(new Customer { DateOfBirth = 198, FirstName = "İsmail", LastName = "Çiçek", NationalityId = 17833709390, Id = 1 });
+           // BaseCustomerManager customerManager = new StarBucksCustomerManager(new MernisServiceAdapter()) ;
+           // customerManager.Save(new Customer { DateOfBirth = 198, FirstName = "İsmail", LastName = "Çiçek", NationalityId = 17833709390, Id = 1 });
 
         }
     }
